@@ -237,39 +237,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-70" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1050" y="760" width="300" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-71" value="" style="group" vertex="1" connectable="0" parent="lokO1-Moy8pPW0aUCQRP-70">
-          <mxGeometry width="300" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-72" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;PHP Myadmin&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;URL :&amp;nbsp;&lt;a style=&quot;background-color: transparent;&quot; title=&quot;http://103.86.51.47/phpmyadmin/db_structure.php?server=1&amp;amp;db=rexx_v2_dev&amp;amp;tbl_type=table&quot; class=&quot;fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; href=&quot;http://103.86.51.47/phpMyAdmin/db_structure.php?server=1&amp;amp;db=rexx_v2_dev&amp;amp;tbl_type=table&quot; id=&quot;menur2bu&quot; aria-label=&quot;Link http://103.86.51.47/phpMyAdmin/db_structure.php?server=1&amp;amp;db=rexx_v2_dev&amp;amp;tbl_type=table&quot;&gt;http://103.86.51.47/phpMyAdmin/&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Staging DB : &lt;b&gt;rexx_v2_dev&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-71">
-          <mxGeometry x="-100" y="1" width="360" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-73" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-71">
-          <mxGeometry x="200" y="10" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1470" y="740" width="270" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-75" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bucket Name :&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;background-color: transparent;&quot; title=&quot;https://ap-southeast-7.console.aws.amazon.com/s3/buckets/rexx-mentor-pdf-markup?region=ap-southeast-7&quot; class=&quot;fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; href=&quot;https://ap-southeast-7.console.aws.amazon.com/s3/buckets/rexx-mentor-pdf-markup?region=ap-southeast-7&quot; id=&quot;menur2ks&quot; aria-label=&quot;Link rexx-mentor-pdf-markup&quot;&gt;rexx-mentor-pdf-markup&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;p&gt;Region :&amp;nbsp;&lt;span style=&quot;font-size: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Asia Pacific (Thailand) ap-southeast-7&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-74">
-          <mxGeometry width="270" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-137" value="" style="group" vertex="1" connectable="0" parent="lokO1-Moy8pPW0aUCQRP-74">
-          <mxGeometry x="1.3106796116504855" width="178.6893203883495" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-76" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.backup_aws_backup_support_for_amazon_s3;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-137">
-          <mxGeometry width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-136" value="File Storage" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-137">
-          <mxGeometry x="118.68932038834951" y="10" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="lokO1-Moy8pPW0aUCQRP-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lokO1-Moy8pPW0aUCQRP-72" target="lokO1-Moy8pPW0aUCQRP-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lokO1-Moy8pPW0aUCQRP-78" value="S3://url path" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lokO1-Moy8pPW0aUCQRP-77">
           <mxGeometry x="-0.1398" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lokO1-Moy8pPW0aUCQRP-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evericons_24px_Vol_2-2248/github-773.svg" vertex="1" parent="1">
@@ -417,6 +390,27 @@
         </mxCell>
         <mxCell id="lokO1-Moy8pPW0aUCQRP-147" value="&lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;Note This Part needs more clarity between Tae and Punith&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-145">
           <mxGeometry x="178" y="91" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-148" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1050" y="760.5" width="250" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-72" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;PHP Myadmin&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;URL :&amp;nbsp;&lt;a style=&quot;background-color: transparent;&quot; title=&quot;http://103.86.51.47/phpmyadmin/db_structure.php?server=1&amp;amp;db=rexx_v2_dev&amp;amp;tbl_type=table&quot; class=&quot;fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; href=&quot;http://103.86.51.47/phpMyAdmin/db_structure.php?server=1&amp;amp;db=rexx_v2_dev&amp;amp;tbl_type=table&quot; id=&quot;menur2bu&quot; aria-label=&quot;Link http://103.86.51.47/phpMyAdmin/db_structure.php?server=1&amp;amp;db=rexx_v2_dev&amp;amp;tbl_type=table&quot;&gt;http://103.86.51.47/phpMyAdmin/&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Staging DB : &lt;b&gt;rexx_v2_dev&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-148">
+          <mxGeometry width="250" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-73" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-148">
+          <mxGeometry x="200" y="4.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-75" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bucket Name :&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;background-color: transparent;&quot; title=&quot;https://ap-southeast-7.console.aws.amazon.com/s3/buckets/rexx-mentor-pdf-markup?region=ap-southeast-7&quot; class=&quot;fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; href=&quot;https://ap-southeast-7.console.aws.amazon.com/s3/buckets/rexx-mentor-pdf-markup?region=ap-southeast-7&quot; id=&quot;menur2ks&quot; aria-label=&quot;Link rexx-mentor-pdf-markup&quot;&gt;rexx-mentor-pdf-markup&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;p&gt;Region :&amp;nbsp;&lt;span style=&quot;font-size: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Asia Pacific (Thailand) ap-southeast-7&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="749.5" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-137" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1460.0006796116506" y="740" width="178.6893203883495" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-136" value="File Storage" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-137">
+          <mxGeometry x="139.9993203883495" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-76" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.backup_aws_backup_support_for_amazon_s3;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-137">
+          <mxGeometry x="18.689999999999998" y="10" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
