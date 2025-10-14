@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.6">
   <diagram name="Page-1" id="vphkQMo_LXSdeb29YhFh">
-    <mxGraphModel>
+    <mxGraphModel dx="2013" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lokO1-Moy8pPW0aUCQRP-1" target="lokO1-Moy8pPW0aUCQRP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lokO1-Moy8pPW0aUCQRP-1" target="lokO1-Moy8pPW0aUCQRP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-1" value="Lifelong Portfolio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-2" value="Frontend React App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-4" value="Frontend Mobile App React Native IOS + Android" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-340" y="220" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-6" value="rexx-eporfolio-frontend&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;feature/linksharing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-8">
+          <mxGeometry width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evericons_24px_Vol_2-2248/github-773.svg" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-8">
+          <mxGeometry width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-340" y="110" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-10" value="rexx-mobile-frontend&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;release/dev&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-9">
+          <mxGeometry width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evericons_24px_Vol_2-2248/github-773.svg" vertex="1" parent="lokO1-Moy8pPW0aUCQRP-9">
+          <mxGeometry width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lokO1-Moy8pPW0aUCQRP-10" target="lokO1-Moy8pPW0aUCQRP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lokO1-Moy8pPW0aUCQRP-6" target="lokO1-Moy8pPW0aUCQRP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-16" value="&amp;nbsp; &amp;nbsp; Total Containers : 4&lt;br&gt;1. rexx_backend&lt;div&gt;2.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Media-2404/social_media_social_media_logo_docker-630.svg" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="24" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
