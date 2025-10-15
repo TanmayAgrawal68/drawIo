@@ -206,7 +206,7 @@
         </mxCell>
         <mxCell id="lokO1-Moy8pPW0aUCQRP-69" value="DB Connection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lokO1-Moy8pPW0aUCQRP-68" vertex="1" connectable="0">
           <mxGeometry x="0.1267" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lokO1-Moy8pPW0aUCQRP-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lokO1-Moy8pPW0aUCQRP-72" target="lokO1-Moy8pPW0aUCQRP-75" edge="1">
