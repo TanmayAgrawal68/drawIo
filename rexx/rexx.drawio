@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.6">
   <diagram name="Page-1" id="vphkQMo_LXSdeb29YhFh">
-    <mxGraphModel dx="2183" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,6 +244,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yqH_gGhSlEL2MwCeseRI-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lokO1-Moy8pPW0aUCQRP-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2950.000000000001" y="-6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lokO1-Moy8pPW0aUCQRP-95" value="Admin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2090" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -317,7 +322,7 @@
             <mxPoint x="85" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lokO1-Moy8pPW0aUCQRP-133" value="&lt;b&gt;Staging API Endpoint :&lt;/b&gt;&amp;nbsp;&lt;span data-teams=&quot;true&quot;&gt;https://techvernity.com/rexx_admin_v2/https://techvernity.com/rexx_admin_v2/&lt;/span&gt;&lt;div&gt;&lt;b&gt;Production API Endpoint :&amp;nbsp;&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;https://rexx.academy/rexx_admin_v3/&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="lokO1-Moy8pPW0aUCQRP-133" value="&lt;b&gt;Staging API Endpoint :&lt;/b&gt;&amp;nbsp;&lt;span data-teams=&quot;true&quot;&gt;https://techvernity.com/rexx_admin_v2/&lt;/span&gt;&lt;div&gt;&lt;b&gt;Production API Endpoint :&amp;nbsp;&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;https://rexx.academy/rexx_admin_v3/&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2090" y="-20" width="610" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lokO1-Moy8pPW0aUCQRP-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evericons_24px_Vol_2-2248/github-773.svg" parent="1" vertex="1">
@@ -647,6 +652,24 @@
         </mxCell>
         <mxCell id="yqH_gGhSlEL2MwCeseRI-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Media-2404/social_media_social_media_logo_docker-630.svg" vertex="1" parent="yqH_gGhSlEL2MwCeseRI-69">
           <mxGeometry x="50" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="yqH_gGhSlEL2MwCeseRI-80" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2860" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yqH_gGhSlEL2MwCeseRI-81" value="" style="group" vertex="1" connectable="0" parent="yqH_gGhSlEL2MwCeseRI-80">
+          <mxGeometry width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yqH_gGhSlEL2MwCeseRI-82" value="&lt;div&gt;repo : rexx-admin-v2.1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;branches :&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tsl_admin_v2&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(4, 251, 45), rgb(255, 255, 255));&quot;&gt;feature/tsl_lp_epa_bug_fixes (latest code)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yqH_gGhSlEL2MwCeseRI-81">
+          <mxGeometry x="-20" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yqH_gGhSlEL2MwCeseRI-83" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evericons_24px_Vol_2-2248/github-773.svg" vertex="1" parent="yqH_gGhSlEL2MwCeseRI-81">
+          <mxGeometry x="-10" y="6" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="yqH_gGhSlEL2MwCeseRI-84" value="PHP app:&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="180" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqH_gGhSlEL2MwCeseRI-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yqH_gGhSlEL2MwCeseRI-82" target="yqH_gGhSlEL2MwCeseRI-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
